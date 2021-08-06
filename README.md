@@ -14,3 +14,8 @@ Objetos de utilidades para reutilizar en realización de programas
 - Creacion de Fecha
 - Creacion de Mensajes
 - Creacion de Numeros
+
+# Jaasiel 2021.08.05
+
+- COmponentes para animacion
+- Extensiones para campos de texto
